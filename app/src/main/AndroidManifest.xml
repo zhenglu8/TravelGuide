@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lok87.travelguide">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".Main6Activity" />
+        <activity android:name=".Main7Activity" />
+        <activity android:name=".Main8Activity" />
+        <activity android:name=".Main9Activity" />
+        <activity android:name=".Main10Activity" />
+        <activity android:name=".Main11Activity" />
+        <activity android:name=".Main12Activity" />
+        <activity android:name=".Main13Activity" />
+        <activity android:name=".Main14Activity" />
+        <activity android:name=".Main15Activity" />
+        <activity android:name=".Main16Activity" />
+        <activity android:name=".Main17Activity" />
+        <activity android:name=".Main18Activity" />
+        <activity android:name=".Main19Activity" />
+        <activity android:name=".Main20Activity" />
+        <activity android:name=".Main21Activity" />
+        <activity android:name=".Main22Activity" />
+        <activity android:name=".Main23Activity" />
+        <activity android:name=".Main24Activity" />
+        <activity android:name=".Main25Activity" />
+        <activity android:name=".Main26Activity" />
+        <activity android:name=".Main27Activity" />
+        <activity android:name=".Main28Activity" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity11"
+            android:label="@string/title_activity_maps11" />
+        <activity
+            android:name=".MapsActivity14"
+            android:label="@string/title_activity_maps14" />
+        <activity
+            android:name=".MapsActivity12"
+            android:label="@string/title_activity_maps12" />
+        <activity
+            android:name=".MapsActivity13"
+            android:label="@string/title_activity_maps13" />
+        <activity
+            android:name=".MapsActivity15"
+            android:label="@string/title_activity_maps15" />
+        <activity
+            android:name=".MapsActivity16"
+            android:label="@string/title_activity_maps16" />
+        <activity
+            android:name=".MapsActivity17"
+            android:label="@string/title_activity_maps17" />
+        <activity
+            android:name=".MapsActivity18"
+            android:label="@string/title_activity_maps18" />
+        <activity
+            android:name=".MapsActivity19"
+            android:label="@string/title_activity_maps19" />
+        <activity
+            android:name=".MapsActivity20"
+            android:label="@string/title_activity_maps20" />
+        <activity
+            android:name=".MapsActivity21"
+            android:label="@string/title_activity_maps21" />
+        <activity
+            android:name=".MapsActivity23"
+            android:label="@string/title_activity_maps23" />
+        <activity
+            android:name=".MapsActivity24"
+            android:label="@string/title_activity_maps24" />
+        <activity
+            android:name=".MapsActivity25"
+            android:label="@string/title_activity_maps25" />
+        <activity
+            android:name=".MapsActivity26"
+            android:label="@string/title_activity_maps26" />
+        <activity
+            android:name=".MapsActivity27"
+            android:label="@string/title_activity_maps27" />
+        <activity
+            android:name=".MapsActivity28"
+            android:label="@string/title_activity_maps28"></activity>
+    </application>
+
+</manifest>

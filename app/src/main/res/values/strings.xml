@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Travel Guide</string>
+    <string name="textView1">TRAVEL GUIDE</string>
+    <string name="button1">Start</string>
+    <string name="button2">About</string>
+    <string name="button3">Contact Us</string>
+    <string name="title_activity_maps11">Map</string>
+    <string-array name="japanCity">
+        <item>Tokyo</item>
+        <item>Kyoto</item>
+        <item>Osaka</item>
+    </string-array>
+    <string-array name="chinaCity">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Xian</item>
+    </string-array>
+    <string-array name="thailandCity">
+        <item>Bangkok</item>
+        <item>Chiang Mai</item>
+        <item>Pattaya</item>
+    </string-array>
+    <string-array name="germanyCity">
+        <item>Berlin</item>
+        <item>Munich</item>
+        <item>Frankfurt</item>
+    </string-array>
+    <string-array name="italyCity">
+        <item>Rome</item>
+        <item>Milan</item>
+        <item>Venice</item>
+    </string-array>
+    <string-array name="franceCity">
+        <item>Paris</item>
+        <item>Lyon</item>
+        <item>Nice</item>
+    </string-array>
+    <string-array name="egyptCity">
+        <item>Cairo</item>
+        <item>Giza</item>
+        <item>Alexandria</item>
+    </string-array>
+    <string-array name="moroccoCity">
+        <item>Casablanca</item>
+        <item>Fes</item>
+        <item>Tangier</item>
+    </string-array>
+    <string-array name="southafricaCity">
+        <item>Cape Town</item>
+        <item>Johannesburg</item>
+        <item>Port Elizabeth</item>
+    </string-array>
+    <string-array name="australiaCity">
+        <item>Sydney</item>
+        <item>Melbourne</item>
+        <item>Perth</item>
+    </string-array>
+    <string-array name="newzealandCity">
+        <item>Auckland</item>
+        <item>Christchurch</item>
+        <item>Wellington</item>
+    </string-array>
+    <string-array name="canadaCity">
+        <item>Toronto</item>
+        <item>Montreal</item>
+        <item>Ottawa</item>
+    </string-array>
+    <string-array name="usCity">
+        <item>Los Angeles</item>
+        <item>New York</item>
+        <item>Dallas</item>
+    </string-array>
+    <string-array name="mexicoCity">
+        <item>Mexico City</item>
+        <item>Cancun</item>
+        <item>Monterrey</item>
+    </string-array>
+    <string-array name="brazilCity">
+        <item>Rio de Janeiro</item>
+        <item>Manaus</item>
+        <item>Sao Paulo</item>
+    </string-array>
+    <string-array name="argentinaCity">
+        <item>Buenos Aires</item>
+        <item>Mendoza</item>
+        <item>La Plata</item>
+    </string-array>
+    <string-array name="colombiaCity">
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+    </string-array>
+    <string name="textSpinner">Select City</string>
+    <string name="textFlight">Select Flight</string>
+    <string-array name="japanFlight">
+        <item>Air Canada</item>
+        <item>Japan Airline</item>
+        <item>American Airline</item>
+    </string-array>
+    <string-array name="germanyFlight">
+        <item>Air Canada</item>
+        <item>United Airline</item>
+        <item>Delta Airline</item>
+    </string-array>
+    <string-array name="chinaFlight">
+        <item>Air Canada</item>
+        <item>Air China</item>
+        <item>HongKong Airline</item>
+    </string-array>
+    <string-array name="thailandFlight">
+        <item>China Eastern Airline</item>
+        <item>Hong Kong Airline</item>
+        <item>Philippine Airline</item>
+    </string-array>
+    <string-array name="italyFlight">
+        <item>Delta Airline</item>
+        <item>Air Canada</item>
+        <item>Air France</item>
+    </string-array>
+    <string-array name="franceFlight">
+        <item>Lufthansa</item>
+        <item>Delta Airline</item>
+        <item>KLM</item>
+    </string-array>
+    <string-array name="egyptFlight">
+        <item>Air France</item>
+        <item>Air Canada</item>
+        <item>Delta Airline</item>
+    </string-array>
+    <string-array name="moroccoFlight">
+        <item>Turkish Airline</item>
+        <item>Air Canada</item>
+        <item>Air China</item>
+    </string-array>
+    <string-array name="southafricaFlight">
+        <item>Cathay Pacific</item>
+        <item>Delta Airline</item>
+        <item>KLM</item>
+    </string-array>
+    <string-array name="australiaFlight">
+        <item>Cathay Pacific</item>
+        <item>Delta Airline</item>
+        <item>KLM</item>
+    </string-array>
+    <string-array name="newzaelandFlight">
+        <item>Air New Zealand</item>
+        <item>Qantas Airline</item>
+        <item>HongKong Airline</item>
+    </string-array>
+    <string-array name="canadaFlight">
+        <item>West Jet</item>
+        <item>Flair Airline</item>
+        <item>Air Canada</item>
+    </string-array>
+    <string-array name="usFlight">
+        <item>West Jet</item>
+        <item>American Airline</item>
+        <item>Alaska Airline</item>
+    </string-array>
+    <string-array name="mexicoFlight">
+        <item>United Airline</item>
+        <item>AeroMexico</item>
+        <item>Delta Airline</item>
+    </string-array>
+    <string-array name="brazilFlight">
+        <item>United Airline</item>
+        <item>Air Canada</item>
+        <item>Delta Airline</item>
+    </string-array>
+    <string-array name="argentinaFlight">
+        <item>United Airline</item>
+        <item>Air Canada</item>
+        <item>Delta Airline</item>
+    </string-array>
+    <string-array name="colombiaFlight">
+        <item>United Airline</item>
+        <item>Air Canada</item>
+        <item>Delta Airline</item>
+    </string-array>
+    <string name="textStartDate">Start Date</string>
+    <string name="textEndDate">End Date</string>
+    <string name="radioButtonCanadianDollor">Canadian Dollar</string>
+    <string name="radioButtonJapaneseYen">Japanese Yen</string>
+    <string name="radioButtonGermanEuro">Euro</string>
+    <string name="radioButtonChineseRMB">RMB</string>
+    <string name="radioButtonThailand">Thai baht</string>
+    <string name="radioButtonEgypt">Egyptian pound</string>
+    <string name="radioButtonMorocco">Moroccan dirham</string>
+    <string name="radioButtonSouthAfrica">South African rand</string>
+    <string name="radioButtonAustralia">Australian dollar</string>
+    <string name="radioButtonNewZealand">New Zealand dollar</string>
+    <string name="radioButtonUS">US dollar</string>
+    <string name="radioButtonMexico">Mexican peso</string>
+    <string name="radioButtonBrazil">Brazilian real</string>
+    <string name="radioButtonArgentina">Argentine peso</string>
+    <string name="radioButtonColombia">Colombian peso</string>
+    <string name="title_activity_maps14">Map</string>
+    <string name="title_activity_maps12">Map</string>
+    <string name="title_activity_maps13">Map</string>
+    <string name="title_activity_maps15">Map</string>
+    <string name="title_activity_maps16">Map</string>
+    <string name="title_activity_maps17">Map</string>
+    <string name="title_activity_maps18">Map</string>
+    <string name="title_activity_maps19">Map</string>
+    <string name="title_activity_maps20">Map</string>
+    <string name="title_activity_maps21">Map</string>
+    <string name="title_activity_maps23">Map</string>
+    <string name="title_activity_maps24">Map</string>
+    <string name="title_activity_maps25">Map</string>
+    <string name="title_activity_maps26">Map</string>
+    <string name="title_activity_maps27">Map</string>
+    <string name="title_activity_maps28">Map</string>
+</resources>
